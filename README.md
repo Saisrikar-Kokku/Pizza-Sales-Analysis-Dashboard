@@ -86,10 +86,7 @@ I'm currently a BTech student passionate about data analytics and dashboard desi
    ```bash
    git clone https://github.com/Saisrikar-Kokku/Pizza-Sales-Analysis-Dashboard.git
    ```
-
-2. Open the Power BI report file `Power BI MiniProject.pbix` in Power BI Desktop.
-
-3. Interact with the dashboard and explore the insights.
+2. Interact with the dashboard and explore the insights.
 
 
 ## Future Improvements
